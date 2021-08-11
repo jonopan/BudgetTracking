@@ -4,12 +4,6 @@
 
 [View it live from your browser.](http://bit.ly/33TMkfx) Deployed with Firebase through ReactJS<br>
 
-<div float="left">
-  <a href="https://www.youtube.com/watch?v=uNwAIlwhAYM">
-    <img src="https://github.com/Aimanski12/proj-resource/blob/master/libs/proj-js29-budget.gif" alt="screen shot">
-  </a>
-</div>
-
 > Things I learned in this project;
   * DOM Manipulation and Mouse Events Handling.
   * Writing app in OOP or Object Oriented Programming.
